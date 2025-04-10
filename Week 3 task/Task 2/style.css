@@ -1,0 +1,26 @@
+.Name{
+    text-align: center;
+    background-color: aqua;
+    border: 1px solid black;
+    border-radius: 10px;
+    text-transform: lowercase;
+    text-indent: 10px;
+    text-shadow: transparent;
+    text-decoration-line: overline;
+    margin: 10px;
+    padding: 10px;
+}
+#para1{
+    background-color: azure;
+    padding: 10px;
+    margin: 10px;
+    line-break: strict;
+}
+#para2{
+    background-color: beige;
+    color: blueviolet;
+    text-decoration-line: line-through;
+}
+#para3{
+    background-color: bisque;
+}
