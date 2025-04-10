@@ -22,5 +22,8 @@
     text-decoration-line: line-through;
 }
 #para3{
-    background-color: bisque;
+    background-color: rgb(126, 70, 3);
+    padding: 10px;
+    margin: 20px;
+    line-height: 4;
 }
