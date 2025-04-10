@@ -1,0 +1,25 @@
+#par1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    font-style: oblique;
+    font-weight: 200;
+    color: aqua;
+
+}
+
+#par2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    font-weight: 400;
+    font-style: italic;
+    color: beige;
+
+}
+
+#par3 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    font-style: italic;
+    font-weight: lighter;
+    color: blue;
+}
